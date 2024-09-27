@@ -1,7 +1,7 @@
 ---
 title: "Dynamic tonuity: Adapting retirement benefits to a changing environment"
 collection: publications
-category: conferences
+category: ongoing
 permalink: /publication/workingpapers1
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-09-27
