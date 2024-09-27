@@ -79,7 +79,7 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
+  ongoing:
     title: 'Working Papers'
 
 # Teaching Category - The following the list of publication categories and their headings
