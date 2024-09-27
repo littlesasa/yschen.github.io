@@ -1,6 +1,7 @@
 ---
 title: "Aging finance and health security"
 collection: teaching
+category: lectures
 type: "Postgraduate course"
 permalink: /teaching/2024-autumn-teaching
 venue: "Southwestern University of Finance and Economics, School of Finance"
