@@ -1,7 +1,7 @@
 ---
 title: "Investing in green bonds with goal-oriented preferences"
 collection: publications
-category: conferences
+category: ongoing
 permalink: /publication/workingpapers2
 #excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-09-27
